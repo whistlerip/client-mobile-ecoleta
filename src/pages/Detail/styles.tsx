@@ -53,7 +53,6 @@ const styles = StyleSheet.create({
         borderTopWidth: StyleSheet.hairlineWidth,
         borderColor: '#999',
         paddingVertical: 20,
-        marginBottom: 0,
         paddingHorizontal: 32,
         flexDirection: 'row',
         justifyContent: 'space-between'
