@@ -24,7 +24,6 @@ const Routes = () => {
                 <AppStack.Screen name="Detail" component={Detail} />
             </AppStack.Navigator>
         </NavigationContainer>
-
     );
 };
 
